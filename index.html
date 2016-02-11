@@ -36,29 +36,35 @@
   <div class="container">
     <section class="header">
         <div class="row">
-            <div class="twelve columns" style="margin-top: 25%">
+            <div class="twelve columns" style="margin-top: 10%">
                 <img src="images/header.png"/>
                 <h6 style="margin-left: 35px">//Portfolio Winter 2016</h2>
             </div>
         </div>
+        <div id="spacer">
         <nav id="navbar">
             <ul class="navbar-list">
                 <list class="navbar-item">
                     <a class="navbar-link" href="#about">About</a>
-                </li>
-                <list class="navbar-item">
-                    <a class="work" href="#">Work</a>
-                    <ul id="popover">
-                        <li><a href="#UX"></a>UX Design &amp; Development</li>
-                        <li><a href="#visual">Visual Design</a></li>
-                        <li><a href="#architectural">Architectural Design &amp; Study</a></li>
-                    </ul>
-                </li>
+                </list>
                 <list class="navbar-item">
                     <a class="navbar-link" href="#contact">Contact</a>
-                </li>
+                </list>
+                <list class="navbar-item">
+                    <a class="work" href="#">Work</a>
+                    <div id="popover">
+                        <ul id="popover-list">
+                            <li class="popover-link"><a href="#UX">UX Design &amp; Development</a></li>
+                            <li class="popover-link"><a href="#visual">Visual Design</a></li>
+                            <li class="popover-link"><a href="#architectural">Architectural Design &amp; Study</a></li>
+                            <li class="popover-link"><a href="#all">View All</a></li>
+                        </ul>
+                    </div>
+                </list>
+                
             </ul>
         </nav>
+        </div>
         <code>
             clicking on ".work" toggles class "visible" on "#popover"
         </code>

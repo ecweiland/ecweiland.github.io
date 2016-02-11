@@ -1,13 +1,99 @@
 /* Custom Styling for eliseweiland.com*/
 
+
+/*popover styling such that when you click the menu it pops open*/
 #popover {
     opacity: 0;
     pointer-events: none;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #eee;
+    background-color: #fff;
+    width: 25rem;
     transition: .4s;
+    margin-left: 8rem;
 }
 
 #popover.visible {
     opacity: 1;
     pointer-events: auto;
     transform: none;
+}
+
+/*#popover::before {
+    content: "";
+    position: absolute;
+    top: -7px;
+    left: calc(50% - 7px);
+    width: 13px;
+    height: 7px;
+    background: url(images/popover-arrow.svg);
+}*/
+
+.popover-link {
+    position: relative;
+    color: #222;
+    display: block;
+    padding: 8px 20px;
+    width:
+    border-bottom: 1px solid #eee;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.0rem;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: .1rem;
+}
+
+/*#popover li {
+    list-style: none;
+    text-align: left;
+}*/
+
+/*styling for the navbar*/
+
+#spacer{
+    border-color: #eee;
+    border-width: 1px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    height: 67px;
+    z-index: 99;
+}
+
+#navbar {
+    
+    
+}
+
+.navbar-list {
+    padding: 20px;
+    
+    
+}
+
+.navbar-item {
+    padding-right: 30px;
+}
+
+.navbar-link {
+    color: #000;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+}
+
+.navbar-link:hover {
+    color: #a07071;
+    
+}
+
+.work {
+    color: #000;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.work:hover{
+    color: #a07071;
 }
