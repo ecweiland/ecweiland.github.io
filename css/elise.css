@@ -1,0 +1,13 @@
+/* Custom Styling for eliseweiland.com*/
+
+#popover {
+    opacity: 0;
+    pointer-events: none;
+    transition: .4s;
+}
+
+#popover.visible {
+    opacity: 1;
+    pointer-events: auto;
+    transform: none;
+}
