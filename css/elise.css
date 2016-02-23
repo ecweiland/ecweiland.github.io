@@ -11,7 +11,7 @@
     background-color: #fff;
     width: 25rem;
     transition: .4s;
-    margin-left: 8rem;
+    margin-left: 9rem;
 }
 
 #popover.visible {
@@ -20,6 +20,9 @@
     transform: none;
 }
 
+#popover.contact-spacing {
+    margin-left: 6rem;
+}
 /*#popover::before {
     content: "";
     position: absolute;
@@ -29,6 +32,10 @@
     height: 7px;
     background: url(images/popover-arrow.svg);
 }*/
+
+#popover-list {
+    margin: 1.5rem 3rem 1.5rem 3rem;
+}
 
 .popover-link {
     position: relative;
@@ -40,15 +47,19 @@
     text-decoration: none;
     text-transform: uppercase;
     font-size: 1.0rem;
-    font-weight: 600;
+    font-weight: 200;
     text-align: center;
     letter-spacing: .1rem;
 }
 
-/*#popover li {
+.popover-link:hover {
+    color: #a07071
+}
+
+#popover li {
     list-style: none;
     text-align: left;
-}*/
+}
 
 /*styling for the navbar*/
 
