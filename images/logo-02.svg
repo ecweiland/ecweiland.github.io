@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1982.6 3302.3" style="enable-background:new 0 0 1982.6 3302.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#043149;}
+	.st1{fill:none;stroke:#043149;stroke-width:10;stroke-miterlimit:10;}
+	.st2{fill:#FFEFC1;}
+	.st3{clip-path:url(#SVGID_2_);fill:#E57777;}
+	.st4{fill:none;stroke:#83949B;stroke-width:6;stroke-miterlimit:10;}
+	.st5{fill:#D7EFF2;}
+	.st6{fill:none;}
+	.st7{fill:#F7D772;}
+	.st8{clip-path:url(#SVGID_5_);fill:#E57777;}
+</style>
+<ellipse class="st2" cx="571.8" cy="1711.3" rx="390.2" ry="1510.6"/>
+<g>
+	<defs>
+		<ellipse id="SVGID_1_" cx="571.3" cy="1714" rx="390.2" ry="1510.6"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<rect x="254.9" y="183.9" class="st3" width="106.6" height="3103.9"/>
+	<rect x="784.6" y="163.9" class="st3" width="95.2" height="3103.9"/>
+</g>
+<line class="st4" x1="575.3" y1="200.9" x2="575.3" y2="3221.6"/>
+<ellipse class="st5" cx="772.8" cy="2985.1" rx="13" ry="106.7"/>
+<ellipse class="st5" cx="377" cy="2973" rx="13" ry="106.7"/>
+<ellipse class="st5" cx="574.9" cy="3194.4" rx="13" ry="106.7"/>
+<path id="SVGID_x5F_4_x5F_" class="st6" d="M571.3,3278.8c-232.9,0-421.7-700.6-421.7-1564.8S338.4,149.2,571.3,149.2
+	S993.1,849.8,993.1,1714S804.3,3278.8,571.3,3278.8z"/>
+<text><textPath  xlink:href="#SVGID_x5F_4_x5F_" startOffset="914.3066%">
+<tspan  style="font-family:'Raleway-Light'; font-size:175px;">Surf over to my Github Page</tspan></textPath>
+</text>
+<g>
+	<ellipse class="st5" cx="1561.3" cy="1712.4" rx="390.2" ry="1510.6"/>
+	<g>
+		<defs>
+			<ellipse id="SVGID_3_" cx="1560.9" cy="1715.2" rx="390.2" ry="1510.6"/>
+		</defs>
+		<clipPath id="SVGID_5_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<rect x="1244.4" y="185.1" class="st8" width="106.6" height="3103.9"/>
+		<rect x="1774.2" y="165.1" class="st8" width="95.2" height="3103.9"/>
+	</g>
+	<line class="st4" x1="1564.9" y1="202" x2="1564.9" y2="3222.8"/>
+	<ellipse class="st2" cx="1762.3" cy="2986.3" rx="13" ry="106.7"/>
+	<ellipse class="st2" cx="1366.6" cy="2974.2" rx="13" ry="106.7"/>
+	<ellipse class="st2" cx="1564.4" cy="3195.5" rx="13" ry="106.7"/>
+	<path id="SVGID_x5F_6_x5F_" class="st6" d="M1560.9,3280c-232.9,0-421.7-700.6-421.7-1564.8S1328,150.4,1560.9,150.4
+		s421.7,700.6,421.7,1564.8S1793.8,3280,1560.9,3280z"/>
+	<text>	<textPath  xlink:href="#SVGID_x5F_6_x5F_" startOffset="1720.406%">
+<tspan  style="font-family:'Raleway-Light'; font-size:175px;">By clicking the surfboards</tspan>	</textPath>
+</text>
+</g>
+</svg>
