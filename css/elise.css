@@ -12,6 +12,7 @@
     width: 25rem;
     transition: .4s;
     margin-left: 9rem;
+    z-index: 100;
 }
 
 #popover.visible {
@@ -63,7 +64,7 @@
 
 /*styling for the navbar*/
 
-#spacer{
+.spacer{
     border-color: #eee;
     border-width: 1px;
     border-top-style: solid;
@@ -72,8 +73,16 @@
     z-index: 99;
 }
 
+.section-break{
+    border-color: #eee;
+    border-width: 1px;
+    border-bottom-style: solid;
+    height: 67px;
+    z-index: 99;
+}
+
 #navbar {
-    
+    z-index: 98;
     
 }
 
@@ -107,4 +116,13 @@
 
 .work:hover{
     color: #a07071;
+}
+
+.below-header{
+    margin-top:10%;
+}
+
+.section-header{
+    font-size: 32pt;
+    font-style: bold;
 }
